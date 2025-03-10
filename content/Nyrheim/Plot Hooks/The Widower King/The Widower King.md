@@ -1,0 +1,1 @@
+[[King Clive Axton II]] wants to find his wife's killer before he is removed from the throne by her family, and he is having difficulty using inquisitors because his estranged brother is working against him.

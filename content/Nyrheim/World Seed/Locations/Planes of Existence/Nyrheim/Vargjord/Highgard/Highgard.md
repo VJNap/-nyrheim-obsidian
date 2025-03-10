@@ -1,0 +1,1 @@
+Human empire on the continent of [[Vargjord]] in the plane of [[Nyrheim]].

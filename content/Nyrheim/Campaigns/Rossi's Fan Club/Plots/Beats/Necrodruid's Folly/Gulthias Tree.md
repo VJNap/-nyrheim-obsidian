@@ -1,0 +1,1 @@
+Dormant and located in the [[Dread Swamp]].

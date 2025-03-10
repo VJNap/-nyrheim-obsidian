@@ -1,0 +1,2 @@
+Snowy ruin of a mountain monastery built as a prison for [[Ayr'Gidon The Deceiver, False God and Collector of Faces|Ayr'Gidon]], which held them for 100yrs.
+Located on [[Vargjord]] in the plane of [[Nyrheim]].

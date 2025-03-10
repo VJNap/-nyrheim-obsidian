@@ -1,0 +1,33 @@
+Planes
+- [[Nyrheim]] - Prime Material Plane
+- [[Psycheim]] - Hells
+	- [[Zetsubo]] - Land of Despair
+		- Emperor
+		- Shogun
+		- Daimyo
+		- Samurai
+	- [[Hokori]] - Land of Pride
+	- [[Senbo]] - Land of Envy
+	- [[Namakemono]] - Land of Sloth
+- [[Carnheim]] - Abyss
+	- [[Reiziur]] - Land of Wrath
+		- [[High King Vitlaus]]
+		- Jarl
+		- Than
+		- Skald
+	- [[Astrizur]] - Land of Lust
+		- [[High Queen Astes]]
+	- [[Grazugur]] - Land of Greed
+		- [[High King Longun]]
+	- [[Borzazur]] - Land of Gluttony
+		- [[High King Borz]]
+- [[Litheim]] - Feywild (Land of heightened emotions)
+- [[Samudheim]] - Shadowfell (Land of Apathy)
+- [[Paettirheim]] - Beastlands
+- [[Haerraheim]]- Peace/Heaven
+- [[Pekktunheim]] - Scholars
+- [[Daurotheim]] - Decay
+- [[Dyrdheim]] - Glory/Life
+- [[Lodrogheim]] - Law/Order/Labor
+- [[Fegurdheim]] - Beauty/Love/Art
+- [[Getheim]] - Abberant/Alien/Chaotic
